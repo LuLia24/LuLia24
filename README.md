@@ -9,7 +9,7 @@
 - 2021-2022 Yandex Practicum сours Web-developer
 
 ### 💬 Contact information
-- [Telegram: @Lia24(https://t.me/Lia24) 
+- [Telegram: @Lia24](https://t.me/Lia24) 
 - [E-mail: peshkova.julia@gmail.com](mailto:peshkova.julia@gmail.com)
 
 ### 🤝 Languages:
